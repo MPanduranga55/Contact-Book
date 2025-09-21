@@ -26,7 +26,7 @@ code {
   padding: 20px;
 }
 
-/* Form Styles */
+
 .form-container {
   background: white;
   padding: 30px;
@@ -107,7 +107,7 @@ code {
   background-color: #545b62;
 }
 
-/* Contact List Styles */
+
 .contacts-container {
   background: white;
   padding: 30px;
@@ -167,7 +167,7 @@ code {
   gap: 10px;
 }
 
-/* Pagination Styles */
+
 .pagination {
   display: flex;
   justify-content: center;
@@ -206,7 +206,7 @@ code {
   margin: 0 15px;
 }
 
-/* Loading and Error States */
+
 .loading {
   text-align: center;
   padding: 40px;
@@ -231,7 +231,7 @@ code {
   border: 1px solid #c3e6cb;
 }
 
-/* Responsive Design */
+
 @media (max-width: 768px) {
   .container {
     padding: 15px;
@@ -274,7 +274,7 @@ code {
 
 @media (max-width: 480px) {
   .form-group input {
-    font-size: 16px; /* Prevent zoom on iOS */
+    font-size: 16px;
   }
 
   .btn {
@@ -292,7 +292,7 @@ code {
   }
 }
 
-/* Animation */
+
 @keyframes fadeIn {
   from {
     opacity: 0;
